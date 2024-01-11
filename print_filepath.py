@@ -1,0 +1,1 @@
+print(f"The value of __file__ is: {__file__}")
